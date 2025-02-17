@@ -1,0 +1,4 @@
+﻿  Variable.c
+C:\Users\suhwa\OneDrive\바탕 화면\GameProgramming\C\Ch1\Variable.c(36,12): warning C4778: 'printf' : 서식 문자열 '%\n'이(가) 종결되지 않았습니다.
+C:\Users\suhwa\OneDrive\바탕 화면\GameProgramming\C\Ch1\Variable.c(39,10): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'char [2]'과(와) 다릅니다.
+  Ch1.vcxproj -> C:\Users\suhwa\OneDrive\바탕 화면\GameProgramming\C\Cstudy\x64\Debug\Ch1.exe

@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Cstudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AC739999-2056-4DE7-8D05-FC3216DCBECD}|..\\Ch1\\Ch1.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch1\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{129A6A33-938A-4999-984E-93893B182AE2}|Cstudy.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Cstudy\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{129A6A33-938A-4999-984E-93893B182AE2}|Cstudy.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +22,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Variable.c",
+              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch1\\Variable.c",
+              "RelativeDocumentMoniker": "..\\Ch1\\Variable.c",
+              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch1\\Variable.c",
+              "RelativeToolTip": "..\\Ch1\\Variable.c",
+              "ViewState": "AgIAABEAAAAAAAAAAADgvy4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-17T07:28:35.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FileName.cpp",
               "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Cstudy\\FileName.cpp",
               "RelativeDocumentMoniker": "FileName.cpp",
               "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Cstudy\\FileName.cpp",
               "RelativeToolTip": "FileName.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-14T07:19:26.704Z",
               "EditorCaption": ""
