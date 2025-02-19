@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\suhwa\OneDrive\바탕 화면\GameProgramming\C\Operalor\main.c(86,7): warning C4552: '!=': 식의 결과가 사용되지 않습니다.
+  Operalor.vcxproj -> C:\Users\suhwa\OneDrive\바탕 화면\GameProgramming\C\Cstudy\x64\Debug\Operalor.exe
