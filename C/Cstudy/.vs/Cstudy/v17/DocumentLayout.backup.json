@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Cstudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56918EC0-CFB9-4079-B297-8D8DB514A2A1}|..\\Operalor\\Operalor.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Operalor\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{49634D5F-B709-4040-9BD0-F079787254A1}|..\\Data\\Data.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Data\\data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56918EC0-CFB9-4079-B297-8D8DB514A2A1}|..\\Operalor\\Operalor.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Operalor\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{56918EC0-CFB9-4079-B297-8D8DB514A2A1}|..\\Operalor\\Operalor.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Operalor\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA7C6E2E-B740-4E3E-813B-EF06328454EC}|..\\Project1\\Project1.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Project1\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -26,8 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "data.c",
+              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Data\\data.c",
+              "RelativeDocumentMoniker": "..\\Data\\data.c",
+              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Data\\data.c",
+              "RelativeToolTip": "..\\Data\\data.c",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAcwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-20T07:26:26.721Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -36,7 +50,7 @@
               "RelativeDocumentMoniker": "..\\Project1\\Main.c",
               "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Project1\\Main.c",
               "RelativeToolTip": "..\\Project1\\Main.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-18T07:14:28.58Z",
               "IsPinned": true,
@@ -45,25 +59,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "test.h",
-              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Operalor\\test.h",
-              "RelativeDocumentMoniker": "..\\Operalor\\test.h",
-              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Operalor\\test.h",
-              "RelativeToolTip": "..\\Operalor\\test.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-19T08:03:20.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Operalor\\main.c",
               "RelativeDocumentMoniker": "..\\Operalor\\main.c",
               "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Operalor\\main.c",
               "RelativeToolTip": "..\\Operalor\\main.c",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAcwGsAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAcwI8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-19T07:16:26.28Z",
               "EditorCaption": ""
