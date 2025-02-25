@@ -3,13 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Cstudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6A03A03D-A36E-47B5-B3B6-75FF27F30851}|..\\Ch7\\Ch7.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F674149-55FC-4440-A72B-A5D067E40BEC}|..\\ch5\\ch5.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch5\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E6D22DF-F2C9-463E-9369-717BD5267AEB}|..\\Ch6\\Ch6.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC739999-2056-4DE7-8D05-FC3216DCBECD}|..\\Ch1\\Ch1.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch1\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F674149-55FC-4440-A72B-A5D067E40BEC}|..\\ch5\\ch5.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch5\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA7C6E2E-B740-4E3E-813B-EF06328454EC}|..\\Project1\\Project1.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Project1\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -32,24 +35,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch7\\main.c",
+              "RelativeDocumentMoniker": "..\\Ch7\\main.c",
+              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch7\\main.c",
+              "RelativeToolTip": "..\\Ch7\\main.c",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAiwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-25T07:00:16.064Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch5\\main.c",
               "RelativeDocumentMoniker": "..\\ch5\\main.c",
               "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch5\\main.c",
               "RelativeToolTip": "..\\ch5\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-21T07:16:15.885Z",
-              "IsPinned": true
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch6\\main.c",
               "RelativeDocumentMoniker": "..\\Ch6\\main.c",
@@ -58,12 +75,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-24T07:06:14.382Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "data.c",
               "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Data\\data.c",
               "RelativeDocumentMoniker": "..\\Data\\data.c",
@@ -75,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Project1\\Main.c",
               "RelativeDocumentMoniker": "..\\Project1\\Main.c",
@@ -83,11 +99,12 @@
               "RelativeToolTip": "..\\Project1\\Main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-18T07:14:28.58Z"
+              "WhenOpened": "2025-02-18T07:14:28.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Operalor\\main.c",
               "RelativeDocumentMoniker": "..\\Operalor\\main.c",
@@ -95,11 +112,12 @@
               "RelativeToolTip": "..\\Operalor\\main.c",
               "ViewState": "AgIAAGgAAAAAAAAAAAAcwI8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-19T07:16:26.28Z"
+              "WhenOpened": "2025-02-19T07:16:26.28Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Variable.c",
               "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch1\\Variable.c",
               "RelativeDocumentMoniker": "..\\Ch1\\Variable.c",
@@ -111,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FileName.cpp",
               "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Cstudy\\FileName.cpp",
               "RelativeDocumentMoniker": "FileName.cpp",
