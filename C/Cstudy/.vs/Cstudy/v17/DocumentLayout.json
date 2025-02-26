@@ -3,29 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Cstudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9B668A4-6D1C-4CC3-A06D-A5EA9AAEB22B}|..\\ch8\\ch8.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B668A4-6D1C-4CC3-A06D-A5EA9AAEB22B}|..\\ch8\\ch8.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch8\\menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B668A4-6D1C-4CC3-A06D-A5EA9AAEB22B}|..\\ch8\\ch8.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch8\\WeaponUpgrade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6A03A03D-A36E-47B5-B3B6-75FF27F30851}|..\\Ch7\\Ch7.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A9B668A4-6D1C-4CC3-A06D-A5EA9AAEB22B}|..\\ch8\\ch8.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch8\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F674149-55FC-4440-A72B-A5D067E40BEC}|..\\ch5\\ch5.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch5\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E6D22DF-F2C9-463E-9369-717BD5267AEB}|..\\Ch6\\Ch6.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC739999-2056-4DE7-8D05-FC3216DCBECD}|..\\Ch1\\Ch1.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch1\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA7C6E2E-B740-4E3E-813B-EF06328454EC}|..\\Project1\\Project1.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Project1\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49634D5F-B709-4040-9BD0-F079787254A1}|..\\Data\\Data.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Data\\data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56918EC0-CFB9-4079-B297-8D8DB514A2A1}|..\\Operalor\\Operalor.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Operalor\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129A6A33-938A-4999-984E-93893B182AE2}|Cstudy.vcxproj|C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Cstudy\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{129A6A33-938A-4999-984E-93893B182AE2}|Cstudy.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,11 +34,53 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch8\\main.c",
+              "RelativeDocumentMoniker": "..\\ch8\\main.c",
+              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch8\\main.c",
+              "RelativeToolTip": "..\\ch8\\main.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-26T06:59:48.25Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menu.c",
+              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch8\\menu.c",
+              "RelativeDocumentMoniker": "..\\ch8\\menu.c",
+              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch8\\menu.c",
+              "RelativeToolTip": "..\\ch8\\menu.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-26T08:16:18.763Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "menu.h",
+              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch8\\menu.h",
+              "RelativeDocumentMoniker": "..\\ch8\\menu.h",
+              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch8\\menu.h",
+              "RelativeToolTip": "..\\ch8\\menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-26T08:09:06.146Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch7\\main.c",
               "RelativeDocumentMoniker": "..\\Ch7\\main.c",
               "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch7\\main.c",
               "RelativeToolTip": "..\\Ch7\\main.c",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAiwG4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-25T07:00:16.064Z",
               "IsPinned": true,
@@ -53,91 +88,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch5\\main.c",
-              "RelativeDocumentMoniker": "..\\ch5\\main.c",
-              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch5\\main.c",
-              "RelativeToolTip": "..\\ch5\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-21T07:16:15.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch6\\main.c",
-              "RelativeDocumentMoniker": "..\\Ch6\\main.c",
-              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch6\\main.c",
-              "RelativeToolTip": "..\\Ch6\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-24T07:06:14.382Z",
+              "Title": "WeaponUpgrade.h",
+              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch8\\WeaponUpgrade.h",
+              "RelativeDocumentMoniker": "..\\ch8\\WeaponUpgrade.h",
+              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch8\\WeaponUpgrade.h",
+              "RelativeToolTip": "..\\ch8\\WeaponUpgrade.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-26T08:30:27.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "data.c",
-              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Data\\data.c",
-              "RelativeDocumentMoniker": "..\\Data\\data.c",
-              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Data\\data.c",
-              "RelativeToolTip": "..\\Data\\data.c",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAcwE4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-20T07:26:26.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Main.c",
-              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Project1\\Main.c",
-              "RelativeDocumentMoniker": "..\\Project1\\Main.c",
-              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Project1\\Main.c",
-              "RelativeToolTip": "..\\Project1\\Main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-18T07:14:28.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Operalor\\main.c",
-              "RelativeDocumentMoniker": "..\\Operalor\\main.c",
-              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Operalor\\main.c",
-              "RelativeToolTip": "..\\Operalor\\main.c",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAcwI8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch5\\main.c",
+              "RelativeDocumentMoniker": "..\\ch5\\main.c",
+              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\ch5\\main.c",
+              "RelativeToolTip": "..\\ch5\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-19T07:16:26.28Z",
+              "WhenOpened": "2025-02-21T07:16:15.885Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Variable.c",
-              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch1\\Variable.c",
-              "RelativeDocumentMoniker": "..\\Ch1\\Variable.c",
-              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Ch1\\Variable.c",
-              "RelativeToolTip": "..\\Ch1\\Variable.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-18T07:16:45.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FileName.cpp",
-              "DocumentMoniker": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Cstudy\\FileName.cpp",
-              "RelativeDocumentMoniker": "FileName.cpp",
-              "ToolTip": "C:\\Users\\suhwa\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\GameProgramming\\C\\Cstudy\\FileName.cpp",
-              "RelativeToolTip": "FileName.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-14T07:19:26.704Z"
             }
           ]
         }
